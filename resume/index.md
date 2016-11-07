@@ -2,8 +2,8 @@
 layout: resume
 ---
 ## Currently
+**International Admissions Coordinator** The George Washington University  
 
-Current Position Description
 
 ## Education
 
